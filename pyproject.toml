@@ -1,0 +1,18 @@
+[project]
+name = "micorservice_demo_with_grpc_shared_utils"
+version = "0.0.1"
+authors = [
+  { name="Saheed Adedeji", email="sademolaadedeji@gmail.com" },
+]
+description = "This contains the grpc code for the microservice-demo-with-grpc project which can be found here"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Sir-heed/micorservice-demo-with-grpc-shared-utils"
+"Bug Tracker" = "https://github.com/Sir-heed/micorservice-demo-with-grpc-shared-utils/issues"

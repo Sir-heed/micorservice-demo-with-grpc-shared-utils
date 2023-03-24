@@ -1,0 +1,13 @@
+LICENSE
+pyproject.toml
+src/micorservice_demo_with_grpc_shared_utils/__init__.py
+src/micorservice_demo_with_grpc_shared_utils/product_pb2.py
+src/micorservice_demo_with_grpc_shared_utils/product_pb2_grpc.py
+src/micorservice_demo_with_grpc_shared_utils/product_receiver_pb2.py
+src/micorservice_demo_with_grpc_shared_utils/product_receiver_pb2_grpc.py
+src/micorservice_demo_with_grpc_shared_utils/user_pb2.py
+src/micorservice_demo_with_grpc_shared_utils/user_pb2_grpc.py
+src/micorservice_demo_with_grpc_shared_utils.egg-info/PKG-INFO
+src/micorservice_demo_with_grpc_shared_utils.egg-info/SOURCES.txt
+src/micorservice_demo_with_grpc_shared_utils.egg-info/dependency_links.txt
+src/micorservice_demo_with_grpc_shared_utils.egg-info/top_level.txt

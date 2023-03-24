@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: micorservice-demo-with-grpc-shared-utils
+Version: 0.0.1
+Summary: This contains the grpc code for the microservice-demo-with-grpc project which can be found here
+Author-email: Saheed Adedeji <sademolaadedeji@gmail.com>
+Project-URL: Homepage, https://github.com/Sir-heed/micorservice-demo-with-grpc-shared-utils
+Project-URL: Bug Tracker, https://github.com/Sir-heed/micorservice-demo-with-grpc-shared-utils/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
