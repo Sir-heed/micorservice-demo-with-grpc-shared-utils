@@ -1,6 +1,5 @@
 LICENSE
 pyproject.toml
-src/__init__.py
 src/micorservice_demo_with_grpc_shared_utils/__init__.py
 src/micorservice_demo_with_grpc_shared_utils/product_pb2.py
 src/micorservice_demo_with_grpc_shared_utils/product_pb2_grpc.py
